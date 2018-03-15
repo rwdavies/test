@@ -2,4 +2,4 @@
 
 echo hello world
 
-exit 1
+exit 0
