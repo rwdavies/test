@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-echo hello world
+R --slave -e "print('hello world')"
 
 exit 0
