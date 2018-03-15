@@ -1,3 +1,5 @@
+language: r
+
 script:
   - ./test_script.sh
 
